@@ -65,13 +65,10 @@ SELECT * FROM employee_demographics
 WHERE first_name LIKE "A__";
 
 SELECT * FROM employee_demographics
-
-
-
-
-
-  
+ 
 WHERE first_name LIKE "A__%";
 
 SELECT * FROM employee_demographics
 WHERE birth_date LIKE "1994%";
+
+
