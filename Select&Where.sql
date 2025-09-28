@@ -65,6 +65,12 @@ SELECT * FROM employee_demographics
 WHERE first_name LIKE "A__";
 
 SELECT * FROM employee_demographics
+
+
+
+
+
+  
 WHERE first_name LIKE "A__%";
 
 SELECT * FROM employee_demographics
